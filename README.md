@@ -52,13 +52,17 @@
 ![Screenshot 2024-09-17 at 2 06 05 AM](https://github.com/user-attachments/assets/1a32a1a1-1890-496b-81a4-0585406858b2)
 ![Screenshot 2024-09-17 at 2 06 31 AM](https://github.com/user-attachments/assets/7a7629ff-de11-450d-a616-cd8093eabf8f)
 
+                            Setting up Microsoft Sentinel 
 
+![Screenshot 2024-09-17 at 4 15 17 AM](https://github.com/user-attachments/assets/935f0561-fa75-4029-a612-c6e84582c290)
 
+![Screenshot 2024-09-17 at 4 15 51 AM](https://github.com/user-attachments/assets/cf7991e7-4da0-432b-922a-b0ee0356a8fc)
 
+                            Setting up a new query in Sentinel workbook
+![Screenshot 2024-09-17 at 4 16 47 AM](https://github.com/user-attachments/assets/f280335e-02c8-4d15-8a3f-dc5bfdbcf7ad)
 
-
-
-
+                            Changing the Data to be visualize via Map
+![Screenshot 2024-09-17 at 4 19 18 AM](https://github.com/user-attachments/assets/5b6232bf-2a56-4f21-bc1d-8c9ebde4310b)
 
 
 
